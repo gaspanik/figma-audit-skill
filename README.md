@@ -70,7 +70,7 @@ Invoke the skill with a slash command or just describe what you want in natural 
 ```
 
 ```
-このFigmaフレームをAI実装に向けて審査してください: https://www.figma.com/design/...
+このFigmaフレームをチェックして: https://www.figma.com/design/...
 ```
 
 ```
