@@ -117,4 +117,4 @@ Overall score: 14 / 20
 
 ---
 
-Built by [gaspanik](https://github.com/gaspanik) · Skill for [Claude Code](https://claude.ai/code) + [Figma MCP](https://help.figma.com/hc/en-us/articles/32132100833815-Guide-to-the-Figma-MCP-server)
+Built by Masaaki Komori - [@cipher](https://x.com/cipher) · Skill for [Claude Code](https://claude.ai/code) + [Figma MCP](https://github.com/figma/mcp-server-guide)
