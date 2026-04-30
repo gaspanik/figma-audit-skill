@@ -59,7 +59,7 @@ cp -r skills/figma-audit ~/.claude/skills/
 
 **3. Verify the Figma MCP is connected**
 
-This skill requires the official [Figma MCP server](https://help.figma.com/hc/en-us/articles/32132100833815-Guide-to-the-Figma-MCP-server). Confirm it is connected in your Claude Code settings before running the skill.
+This skill requires the official [Figma MCP server](https://github.com/figma/mcp-server-guide). Confirm it is connected in your Claude Code settings before running the skill.
 
 **4. Run the audit**
 
