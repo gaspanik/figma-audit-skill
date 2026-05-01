@@ -115,6 +115,10 @@ Overall score: 14 / 20
 | `Passed a component URL instead of a frame` | Right-click the frame in Figma → Copy link → use that URL. Component URLs and file-root URLs are not supported. |
 | Report is in the wrong language | The skill mirrors the conversation language. Switch your message language and re-run. |
 
+## Related
+
+- [figma-component-audit-skill](https://github.com/gaspanik/figma-component-audit-skill) — the companion skill for auditing **components** (variants, slots, component properties) rather than frames
+
 ---
 
 Built by Masaaki Komori - [@cipher](https://x.com/cipher) · Skill for [Claude Code](https://claude.ai/code) + [Figma MCP](https://github.com/figma/mcp-server-guide)
