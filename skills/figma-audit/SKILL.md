@@ -97,9 +97,9 @@ Use the following format:
 | Dimension | Score | Rating |
 |-----------|-------|--------|
 | A. Layer naming | X / 5 | 🟢 Good / 🟡 Room for improvement / 🔴 Needs fixing |
-| B. Auto-layout | X / 5 | 〃 |
-| C. Variables & tokens | X / 5 | 〃 |
-| D. Component structure | X / 5 | 〃 |
+| B. Auto-layout | X / 5 | 🟢 / 🟡 / 🔴 |
+| C. Variables & tokens | X / 5 | 🟢 / 🟡 / 🔴 |
+| D. Component structure | X / 5 | 🟢 / 🟡 / 🔴 |
 
 Scoring criteria (5 points each):
 - 5: No issues
